@@ -1,0 +1,18 @@
+.link {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+  margin-right: 10px;
+}
+
+.active {
+  color: tomato;
+  text-decoration: underline;
+}
+
+.navigation {
+  display: flex;
+  font-size: 30px;
+  gap: 10px;
+  margin-bottom: 20px;
+}
